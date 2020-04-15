@@ -1,5 +1,5 @@
 # Self Introduction
-Hi. I am __Lai Jian Shin__ and I am a _year 2_ Computer Science student from __Brunei__!.
+Hi. I am __Lai Jian Shin__ and I am a year 2 Computer Science student from __Brunei__!
 
 ## My experiences
 As a developer, I have done the following:
@@ -21,7 +21,7 @@ I have played with Github for some time, but only covered the basics. Learnt a l
 - [ ] Waking up early
 
 ## My most memorable courses
-
+These are the courses that will always have a special place in my heart. Not because they were easy or anything - they just had a lot of memories attached to them. Noticed how most of em' were year 1 courses, they were very very memorable and was a fresh and new exciting experience overall
 Course Code | Course Title
 ----------- | ------------
 ENGG1100 | Intro to Engineering Design
@@ -33,4 +33,5 @@ ENGG2020 | Digital Logic & Systems
 ELTU2014 | English for Engineering Students I
 CSCI2040 | Introduction to Python
 
-
+## Screenshot
+![Screenshot Commands](./proj_ms2_screenshot.png)
